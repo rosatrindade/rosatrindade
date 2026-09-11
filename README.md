@@ -6,10 +6,10 @@
 
 Atuo como **Analista de Suporte Técnico em uma fintech**, com foco em integrações via API (cartão, Pix e boleto), apoiando clientes estratégicos em implementação, configuração e resolução de incidentes técnicos complexos — em conjunto com os times de Produto e Desenvolvimento.
 
-- 🔌 Suporte especializado a integrações via API para clientes em produção, do diagnóstico à causa-raiz
-- 🌉 Ponte entre clientes, Comercial, Produto e Dev — traduzo necessidade de negócio em solução técnica
-- 🤖 Foco crescente em identificar tarefas manuais e repetitivas do dia a dia do suporte e transformá-las em automações em Python
-- 📊 Apoio análise de dados e indicadores operacionais e a base de conhecimento interna do time
+- 🔌 Suporte especializado a integrações via API para clientes em produção, do diagnóstico à causa-raiz.
+- 🌉 Ponte entre clientes, Comercial, Produto e Dev — traduzo necessidade de negócio em solução técnica.
+- 🤖 Foco crescente em identificar tarefas manuais e repetitivas do dia a dia do suporte e transformá-las em automações em Python.
+- 📊 Apoio análise de dados e indicadores operacionais e a base de conhecimento interna do time.
 
 ### Trajetória
 
@@ -45,9 +45,9 @@ Antes da fintech, passei por suporte técnico N1/N2 em produto financeiro (cart�
 
 ### O que venho automatizando?
 
-- **Cancelamento em lote de boletos e de cobranças em cartão de crédito** — scripts em Python que substituem a baixa/estorno manual, um a um, por processamento em lote via API
-- **Relatórios e listagens operacionais** — geração automática de relatórios que antes dependiam de consulta manual recorrente (transações, assinaturas, subcontas)
-- **Monitor de SLA do suporte** — substitui a apuração manual do indicador semanal do time (exportar do Octadesk para Excel, aplicar fórmula, contar na mão) por um script que consulta a API, aplica a mesma regra de negócio validada com a operação e publica o resultado automaticamente no Microsoft Teams — visão geral do time, resultado individual por colaborador e cópia consolidada para a gestão
+- **Cancelamento em lote de boletos e de cobranças em cartão de crédito** — scripts em Python que substituem a baixa/estorno manual, um a um, por processamento em lote via API.
+- **Relatórios e listagens operacionais** — geração automática de relatórios que antes dependiam de consulta manual recorrente (transações, assinaturas, subcontas).
+- **Monitor de SLA do suporte** — substitui a apuração manual do indicador semanal do time (exportar do Octadesk para Excel, aplicar fórmula, contar na mão) por um script que consulta a API, aplica a mesma regra de negócio validada com a operação e publica o resultado automaticamente no Microsoft Teams — visão geral do time, resultado individual por colaborador e cópia consolidada para a gestão.
 
 *Alguns desses projetos nasceram de necessidades internas da operação onde trabalho hoje; os repositórios são mantidos privados.*
 
