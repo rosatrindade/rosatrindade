@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0e4f66&text=Samuel%20Rosa%20Trindade&fontColor=ffffff&fontSize=42&fontAlignY=32&desc=Suporte%20T%C3%A9cnico%20%26%20Integra%C3%A7%C3%B5es%20%C2%B7%20Fintech%20%2F%20APIs%20%C2%B7%20Automa%C3%A7%C3%A3o%20com%20Python-nl-Porto%20Alegre%2C%20RS%20%C2%B7%20Brasil&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0e4f66&text=Samuel%20Rosa%20Trindade&fontColor=ffffff&fontSize=42&fontAlignY=32&desc=Suporte%20T%C3%A9cnico%20e%20Integra%C3%A7%C3%B5es%20%C2%B7%20Fintech%20%2F%20APIs%20%C2%B7%20Automa%C3%A7%C3%A3o%20com%20Python-nl-Porto%20Alegre%2C%20RS%20%C2%B7%20Brasil&descAlignY=58&descSize=16" />
 
 ---
 
-### O que eu faço
+### O que eu faço?
 
 Atuo como **Analista de Suporte Técnico em uma fintech**, com foco em integrações via API (cartão, Pix e boleto), apoiando clientes estratégicos em implementação, configuração e resolução de incidentes técnicos complexos — em conjunto com os times de Produto e Desenvolvimento.
 
