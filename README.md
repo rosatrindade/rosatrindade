@@ -15,7 +15,7 @@ Atuo como **Analista de Suporte Técnico em uma fintech**, com foco em integraç
 
 Antes da fintech, passei por suporte técnico N1/N2 em produto financeiro (cartões, movimentações de associados de banco) e por sistemas de Departamento Pessoal (folha, eSocial, eCAC, ponto), sempre no ponto de contato direto com quem usa o sistema no dia a dia.
 
-### Com o que trabalho
+### Com o que trabalho?
 
 **Suporte & Integrações**
 
@@ -43,7 +43,7 @@ Antes da fintech, passei por suporte técnico N1/N2 em produto financeiro (cart�
 ![Automação de processos](https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20de%20Processos-4D4D4D?style=flat-square)
 ![Dados & Pipelines](https://img.shields.io/badge/Dados%20%26%20Pipelines-4D4D4D?style=flat-square)
 
-### O que venho automatizando
+### O que venho automatizando?
 
 - **Cancelamento em lote de boletos e de cobranças em cartão de crédito** — scripts em Python que substituem a baixa/estorno manual, um a um, por processamento em lote via API
 - **Relatórios e listagens operacionais** — geração automática de relatórios que antes dependiam de consulta manual recorrente (transações, assinaturas, subcontas)
